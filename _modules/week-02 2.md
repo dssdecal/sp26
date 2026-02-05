@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 
-Sep 22
+Feb 16
 : **2**{: .label} Useful Libraries, Introduction to Pandas, Data Cleaning and Manipulation, Project Group Reveals! 🐼
 : **Lecture**{: .label .label-lecture} <a href="https://docs.google.com/presentation/d/1KHaebOo3iU_PGJw6uLl0-Q4woVNTi87Yg_hvLGEP8d4/edit?usp=sharing" target="_blank">Slides</a>
 : **Readings**{: .label .label-reading} <a href="{{site.links.readings.reading01}}" target="_blank">Pandas 1</a>, <a href="{{site.links.readings.reading02}}" target="_blank">Pandas 2</a>, <a href="{{site.links.readings.reading03}}" target="_blank">Pandas 3</a>

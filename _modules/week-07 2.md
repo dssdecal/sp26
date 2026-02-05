@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 
- Oct 27
+ Mar 23
 : **7**{: .label} ML and Modelling 2
 : **Lecture**{: .label .label-lecture} <a href="https://docs.google.com/presentation/d/17PnL4dHcnbFSynLnj6PnLlId9A1GERlhIjaCsQ9oQEg/edit?usp=sharing" target="_blank">Slides</a>
 : **Worksheet**{: .label .label-worksheet} <a href="https://colab.research.google.com/drive/1tQVmPBBi3Q6199EX_9fP7HzfVTXzz8ta?usp=sharing" target="_blank">Worksheet<a>

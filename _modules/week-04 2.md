@@ -3,7 +3,7 @@ title: Week 4
 class: Berkeley
 status: Active
 ---
-Oct 6
+Mar 2
 : **4**{: .label} Hypothesis Testing and Probability
 : **Lecture**{: .label .label-lecture} <a href="https://docs.google.com/presentation/d/1Uwja-ahUk-o1CNQ4bIHP6KYTgi8wS2Pq-Pp-SKg6qac/edit?usp=drive_link" target="_blank">Slides</a>
 : **Worksheet**{: .label .label-worksheet} <a href="https://docs.google.com/document/d/1C2jVUYxJN-B-twNDSI3_7NejsLaLxeA8zsXa3qhU4H8/edit?usp=drive_link" target="_blank">Worksheet</a>
