@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 
-May 20
+Apr 27
 : **9**{: .label} Symposium II
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->
 

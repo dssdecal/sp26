@@ -4,6 +4,6 @@ class: Berkeley
 status: Active
 ---
 
-Apr 13
-: **8**{: .label} NO CLASS (Thanksgiving Week)
+Apr 20
+: **8**{: .label} Symposium I
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->
