@@ -5,6 +5,6 @@ status: Active
 ---
 
 Feb 16
-: **1**{: .label} No Lecture (President's Day) 
+: **2**{: .label} No Lecture (President's Day) 
 
 <!-- : **Checkpoint**{: .label .label-checkpoint} **Project Checkpoint 1 (Due 10/07)** -->
