@@ -10,7 +10,7 @@ Sep 29
 : **Readings**{: .label .label-reading} <a href="{{site.links.readings.reading01}}" target="_blank">Pandas 1</a>, <a href="{{site.links.readings.reading02}}" target="_blank">Pandas 2</a>, <a href="{{site.links.readings.reading03}}" target="_blank">Pandas 3</a>
 : **Demos**{: .label .label-demos}  <a href = "{{site.links.demos.demo01}}" target = "_blank">Pandas</a>
 : **Resources**{: .label .label-resources} <a href = "https://pandas.pydata.org/docs/reference/index.html" target = "_blank">Pandas API Reference</a>
-: **Lab Notebook**{: .label .label-worksheet} <a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Fsp26&branch=main&urlpath=lab%2Ftree%2Fsp26%2Flab_notebooks%2FAnother_copy_of_02_Intro_to_Pandas.ipynb" target="_blank">Worksheet</a>
+: **Lab Notebook**{: .label .label-worksheet} <a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Fsp26&branch=main&urlpath=lab%2Ftree%2Fsp26%2Flab_notebooks%2F02_Intro_to_Pandas.ipynb" target="_blank">Lab 01: Intro to Pandas</a>
 
 <!-- : **Checkpoint**{: .label .label-checkpoint} **Project Checkpoint 1 (Due 10/07)** -->
 <!-- : **Resources**{: .label .label-resources}<a href = "{{site.links.readings.reading04}}" target = "_blank"> Data Cleaning Deepnote</a> -->
